@@ -1,18 +1,16 @@
-# HTML Authentication System POC
+# Authentication System Styling
 
-This project demonstrates a simple authentication system built using pure HTML.
+This project is a responsive authentication system built using HTML, Bootstrap 5, and CSS.
 
-## Pages Included
-- Login Page
-- Registration Page
-- Forgot Password Page
-- Reset Password Page
-- Dashboard Page
+## Pages
+- Login
+- Register
+- Forgot Password
+- Reset Password
+- Dashboard
 
 ## Features
-- Page redirections using form actions and anchor tags
-- No CSS or JavaScript used (Plain HTML only)
-
-## Author
-Aysha Shariff
-8th Semester AIML
+- Responsive design
+- Bootstrap UI
+- Custom CSS styling
+- Password toggle feature
